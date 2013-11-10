@@ -1,0 +1,2 @@
+Implement the LCA data structure. That is the current bottleneck.
+Enhance the robustness by handling graphs with more than 1 connected component.

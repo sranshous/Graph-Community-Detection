@@ -1,0 +1,7 @@
+all_groups_src/
+graphs/
+output/
+*.gz
+*.tar
+*.ods
+*.pdf
